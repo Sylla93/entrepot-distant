@@ -1,6 +1,6 @@
 Initialisation du fichier
 
-git add Ajout d'informations
+Ajout d'informations
 	
 
 	
