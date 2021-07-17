@@ -1,6 +1,5 @@
-On branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	entrepot-distant/
+Initialisation du fichier
+git add Ajout d'informations
+	
 
-nothing added to commit but untracked files present (use "git add" to track)
+	
